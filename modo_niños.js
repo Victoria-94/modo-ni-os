@@ -47,7 +47,7 @@ do{
 } while(bisagra<=Cantidad);
 alert("Se realizo un total de: "+ Cantidad+ " bisagras y estan listas para la entrega, puede pasarlas retirando.");
 
-// Modo infantil
+// MODO INFANTIL USANDO FOR
 let niños= String(confirm("Desea activar su telefono a modo -infantil-"));
 alert("Usted acaba de activar el modo infantil y el infante tiene que contar hasta 20 para poder usar el dispositivo");
 let tiempo=0
